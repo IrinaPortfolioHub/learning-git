@@ -4,3 +4,4 @@ Ihave learn two things just now
 as well as how to reliably push the text on each line using persentage and n at the begging of the line in the terminal
 I feel like a superstart :)
 /nHey, new line this time?
+Hey, new line this time?
