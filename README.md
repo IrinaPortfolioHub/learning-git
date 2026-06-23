@@ -9,3 +9,43 @@ Hey, new line this time?
 Hey, new line this time?
 
 ok, great learning, it needs double nn to interpret the line as a new paragraph
+
+Hey, it is Tuesday, I should have learned by now how to updae the readm: 
+
+echo or printf 
+
+stage it with git add . 
+
+git commit - well, to commit 
+
+git push - to get it out there 
+
+Hey, it is Tuesday, I should have learned by now how to updae the readm: 
+
+echo or printf 
+
+stage it with git add . 
+
+git commit - well, to commit 
+
+git push - to get it out there 
+
+Hey, it is Tuesday, I should have learned by now how to updae the readm: 
+
+echo or printf 
+
+stage it with git add . 
+
+git commit - well, to commit and add comments 
+
+git push - to get it out there 
+
+Hey, it is Tuesday, I should have learned by now how to updae the readm: 
+
+echo or printf 
+
+stage it with git add . 
+
+git commit - well, to commit and add comments 
+
+git push - to get it out there 
